@@ -367,6 +367,7 @@ Key findings such as the distribution of customers across different age groups a
 
 **Dashboard link**
 [Link to Dashboard here](https://public.tableau.com/views/CUSTOMERFINANCIALANALYSIS/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop)
+BETTER VIEW IN DESKTOP VERSION
 
 **Dataset Link**
 [Link to the dataset](https://1drv.ms/x/c/7256ba81ae14a105/EbqiL2k-J_hEnWsf9l_EmEIBvXRncAwG_GOxCT6wI-U9iQ)
